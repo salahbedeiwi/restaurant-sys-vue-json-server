@@ -1,0 +1,152 @@
+{
+  "users": [
+    {
+      "name": "Salah Bedeiwi 33",
+      "email": "b1@123.edu",
+      "pass": "salah`12345",
+      "id": 1
+    },
+    {
+      "name": "Salah Bedeiwi",
+      "email": "22@22.com",
+      "pass": "0011223344",
+      "id": 2
+    },
+    {
+      "name": "Salah Bedeiwi",
+      "email": "b3333333@umn.edu",
+      "pass": "12212212122112",
+      "id": 5
+    }
+  ],
+  "locations": [
+    {
+      "name": "Hooks Fish and Chips 2",
+      "phone": "321.654.987",
+      "address": "New Jersy, MN",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "KFC Rest Inc",
+      "phone": "012.345.745",
+      "address": "Egypt, Cairo",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "Hooks Fish and Chicken",
+      "phone": "321.345.678",
+      "address": "Egypt, Mansoura",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "KFC Restaurant",
+      "phone": "123.456.987",
+      "address": "Cairo, EGYPT",
+      "userId": 1,
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "name": "Breakfast",
+      "userId": 1,
+      "locationId": 3,
+      "id": 1
+    },
+    {
+      "name": "Lunch",
+      "userId": 2,
+      "locationId": 3,
+      "id": 2
+    },
+    {
+      "name": "Dinner",
+      "userId": 1,
+      "locationId": 4,
+      "id": 3
+    },
+    {
+      "name": "Breakfast 4",
+      "userId": 1,
+      "locationId": 3,
+      "id": 4
+    },
+    {
+      "name": "Breakfast 5",
+      "userId": 1,
+      "locationId": 3,
+      "id": 5
+    },
+    {
+      "name": "Dinner 4",
+      "userId": 1,
+      "locationId": 3,
+      "id": 6
+    },
+    {
+      "name": "Breakfast 45",
+      "userId": 1,
+      "locationId": 3,
+      "id": 7
+    },
+    {
+      "name": "dinner 564",
+      "userId": 1,
+      "locationId": 3,
+      "id": 8
+    },
+    {
+      "name": "Drinks",
+      "userId": 1,
+      "locationId": 3,
+      "id": 9
+    },
+    {
+      "name": "Lunch",
+      "userId": 1,
+      "locationId": 3,
+      "id": 10
+    },
+    {
+      "name": "Friday Night",
+      "userId": 1,
+      "locationId": 3,
+      "id": 11
+    },
+    {
+      "name": "Lunch 45",
+      "userId": 1,
+      "locationId": 3,
+      "id": 12
+    },
+    {
+      "name": "Breakfast 56",
+      "userId": 2,
+      "locationId": 1,
+      "id": 13
+    }
+  ],
+  "items": [
+    {
+      "name": "Philly Steak Sandwich",
+      "price": 35.99,
+      "description": "Server with Fries and Drink",
+      "qty": 230,
+      "userId": 2,
+      "catId": 13,
+      "id": 3
+    },
+    {
+      "name": "Meal Lovers Sandwich",
+      "price": 55.99,
+      "description": "Server with Fries and Drink",
+      "qty": 230,
+      "userId": 2,
+      "catId": 13,
+      "id": 4
+    }
+  ]
+}

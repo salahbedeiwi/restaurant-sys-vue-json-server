@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "name": "Salah Bedeiwi 33",
+      "email": "b1@123.edu",
+      "pass": "salah`12345",
+      "id": 1
+    },
+    {
+      "name": "Salah Bedeiwi 222",
+      "email": "b2@umn.edu",
+      "pass": "b222222222222222",
+      "id": 2
+    },
+    {
+      "name": "Salah Bedeiwi",
+      "email": "b3333333@umn.edu",
+      "pass": "12212212122112",
+      "id": 5
+    }
+  ],
+  "locations": [
+    {
+      "name": "Hooks Fish and Chips",
+      "phone": "1234567891",
+      "address": "Minneapolis, Minnesota",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Hooks Fish and Chips",
+      "phone": "1234567897",
+      "address": "Minneapolis, Minnesota",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "Hooks Fish and Chips",
+      "phone": "1234567899",
+      "address": "St. Paul, Minnesota",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "phone": "111111111111111111111",
+      "address": "111111111111111",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "name": "2111111111122",
+      "phone": "2111111111122",
+      "address": "2111111111122",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "name": "Hooks Fish and Chips",
+      "phone": "123456456456",
+      "address": "USA, Minnesota",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "name": "Hooks Fish and Chips",
+      "phone": "123.456.789",
+      "address": "Minneapolis, Minnesota",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "name": "Kj and Inc",
+      "phone": "123.456.789",
+      "address": "Minneapolis, MN",
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "name": "Hooks Fish and Chips",
+      "phone": "123.456.789",
+      "address": "USA Minnesota",
+      "userId": 1,
+      "id": 9
+    }
+  ]
+}
